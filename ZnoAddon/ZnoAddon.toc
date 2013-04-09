@@ -1,0 +1,8 @@
+## Interface: 40000
+## Title: ZnoAddon
+## Notes: This is just a test addon to see if it shows up on wow interface stuff.
+## Author: John Reffitt (znothegamer@gmail.com)
+## Dependencies:
+## SavedVariablesPerCharacter: zno_mode
+ZnoAddon.lua
+ZnoAddon.xml
